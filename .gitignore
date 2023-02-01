@@ -1,2 +1,2 @@
-data/corona_tested_individuals_ver_006.english.csv
-data/corona_tested_individuals_ver_0083.english.csv
+.env/
+__pycache__/
